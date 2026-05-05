@@ -1,0 +1,6 @@
+This is an instructions file to push a file to GitHub
+we will use the following commands:
+add .
+add ./pushToGithb.txt
+commit -m ""
+push
